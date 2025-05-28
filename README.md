@@ -46,7 +46,6 @@ I'm a Full-Stack Developer from Albania 🇦🇱, passionate about building resp
 </p>
 
 ---
----
 
 ### 💼 Projects
 
