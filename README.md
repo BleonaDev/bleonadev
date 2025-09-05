@@ -18,7 +18,7 @@ I'm a Full-Stack Developer from Albania 🇦🇱, passionate about building resp
 
 - Email: **bleona.hitaj98@gmail.com**
 - LinkedIn: [Bleona Hitaj](https://www.linkedin.com/in/bleona-hitaj-a2b155334/)
-- 📄My Resume: [Check it out](https://drive.google.com/file/d/1sY9NgAlliBNKvHEX_C6Wh4K87ZZSajoN/view?usp=sharing)
+- 📄My Resume: [Check it out](https://drive.google.com/file/d/1wnvK_a-Rgqd0ehqd8b5jLrFKnWC_PUXp/view?usp=drive_link)
 
 ---
 
