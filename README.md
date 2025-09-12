@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bleona</h1>
 <h4 align="center">
-I'm a Full-Stack Developer from Albania 🇦🇱, passionate about building responsive, user-friendly web applications. I love solving problems through code and constantly exploring new technologies.
+I'm a Front End Developer from Albania 🇦🇱, passionate about building responsive, user-friendly web applications. I love solving problems through code and constantly exploring new technologies.
 </h4>
 
 ---
