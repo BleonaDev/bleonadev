@@ -6,7 +6,7 @@ I'm a Full-Stack Developer from Albania 🇦🇱, passionate about building resp
 ---
 
 ### 👩‍💻 About Me
-- 💻 I have solid frontend skills, especially with **HTML**, **CSS**, **JavaScript**, and **React**
+- 💻 I have solid frontend skills, especially with **HTML**, **CSS**, and **Vanilla JavaScript**
 - 🌱 I’m currently expanding my knowledge in **backend technologies** like **Node.js**  
 - 🎨 I’m passionate about **UI/UX design**, always aiming to create clean and intuitive interfaces
 - 🧠 I hold a **Bachelor's degree in Informatics**, which gave me a solid foundation in various programming concepts and languages
@@ -28,8 +28,6 @@ I'm a Full-Stack Developer from Albania 🇦🇱, passionate about building resp
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
