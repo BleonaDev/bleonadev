@@ -46,7 +46,7 @@ I'm a Front End Developer from Albania , passionate about building responsive, u
 ---
 
 ### 💼 Projects
-
+- 🍴 [**TastyBites-Recipe Website**](https://github.com/BleonaDev/TastyBites) – A responsive cooking recipe website built with HTML, CSS, andVanilla JavaScript, featuring multiple recipes and interactive modals for each dish.
 - 🔗 [**Worldly Adventures-Travel Agency Website**](https://github.com/bleonadev/worldly-adventures-website) – A responsive and visually appealing travel agency website built with HTML, CSS, and JavaScript (frontend) as well as Django(backend)
 - 📝 [**Real estate agency website**](https://github.com/BleonaDev/real-estate-website) – A modern real estate agency website showcasing my skills,built with HTML,CSS,Javascript(frontend) and Django(backend)
 - 📚 [**Javascript mini projects**](https://github.com/BleonaDev/Javascript-mini-projects) – Javascript mini projects to practice and improve my front-end development skills.
