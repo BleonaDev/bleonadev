@@ -18,7 +18,6 @@ I'm a Front End Developer from Albania , passionate about building responsive, u
 
 - Email: **bleona.hitaj98@gmail.com**
 - LinkedIn: [Bleona Hitaj](https://www.linkedin.com/in/bleona-hitaj-a2b155334/)
-- 📄My Resume: [Check it out](https://drive.google.com/file/d/1wnvK_a-Rgqd0ehqd8b5jLrFKnWC_PUXp/view?usp=drive_link)
 
 ---
 
