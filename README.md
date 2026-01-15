@@ -5,7 +5,7 @@ I'm a Front End Developer from Albania , passionate about building responsive, u
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 About Me 
 - 💻 I have solid frontend skills, especially with **HTML**, **CSS**, **JavaScript (ES6+)** and **React**
 - 🌱 I’m currently expanding my knowledge in **backend technologies** like **Node.js**  
 - 🎨 I’m passionate about **UI/UX design**, always aiming to create clean and intuitive interfaces
